@@ -1,0 +1,1407 @@
+[{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ab"
+  },
+  "Paises": "EE.UU",
+  "Número de muertes": 543.721
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ac"
+  },
+  "Paises": "Brasil",
+  "Número de muertes": 273.124
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ad"
+  },
+  "Paises": "México",
+  "Número de muertes": 193.142
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ae"
+  },
+  "Paises": "India",
+  "Número de muertes": 158.326
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110af"
+  },
+  "Paises": "Reino Unido",
+  "Número de muertes": 125.168
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b0"
+  },
+  "Paises": "Italia",
+  "Número de muertes": 101.184
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b1"
+  },
+  "Paises": "Rusia",
+  "Número de muertes": 91.22
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b2"
+  },
+  "Paises": "Francia",
+  "Número de muertes": 89.83
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b3"
+  },
+  "Paises": "Alemania",
+  "Número de muertes": 73.56
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b4"
+  },
+  "Paises": "España",
+  "Número de muertes": 72.085
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b5"
+  },
+  "Paises": "Irán",
+  "Número de muertes": 61.016
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b6"
+  },
+  "Paises": "Colombia",
+  "Número de muertes": 60.858
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b7"
+  },
+  "Paises": "Argentina",
+  "Número de muertes": 53.493
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b8"
+  },
+  "Paises": "Sudáfrica",
+  "Número de muertes": 51.11
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110b9"
+  },
+  "Paises": "Perú",
+  "Número de muertes": 48.484
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ba"
+  },
+  "Paises": "Polonia",
+  "Número de muertes": 46.724
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110bb"
+  },
+  "Paises": "Indonesia",
+  "Número de muertes": 38.229
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110bc"
+  },
+  "Paises": "Turquía",
+  "Número de muertes": 29.29
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110bd"
+  },
+  "Paises": "Ucrania",
+  "Número de muertes": 27.915
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110be"
+  },
+  "Paises": "Rep. Checa",
+  "Número de muertes": 22.865
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110bf"
+  },
+  "Paises": "Canadá",
+  "Número de muertes": 22.371
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c0"
+  },
+  "Paises": "Bélgica",
+  "Número de muertes": 22.37
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c1"
+  },
+  "Paises": "Chile",
+  "Número de muertes": 21.362
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c2"
+  },
+  "Paises": "Rumanía",
+  "Número de muertes": 21.252
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c3"
+  },
+  "Paises": "Portugal",
+  "Número de muertes": 16.635
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c4"
+  },
+  "Paises": "Hungría",
+  "Número de muertes": 16.627
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c5"
+  },
+  "Paises": "Ecuador",
+  "Número de muertes": 16.128
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c6"
+  },
+  "Paises": "Países Bajos",
+  "Número de muertes": 15.998
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c7"
+  },
+  "Paises": "Irak",
+  "Número de muertes": 13.671
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c8"
+  },
+  "Paises": "Pakistán",
+  "Número de muertes": 13.43
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110c9"
+  },
+  "Paises": "Suecia",
+  "Número de muertes": 13.111
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ca"
+  },
+  "Paises": "Filipinas",
+  "Número de muertes": 12.694
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110cb"
+  },
+  "Paises": "Bolivia",
+  "Número de muertes": 11.903
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110cc"
+  },
+  "Paises": "Egipto",
+  "Número de muertes": 11.169
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110cd"
+  },
+  "Paises": "Bulgaria",
+  "Número de muertes": 11.094
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ce"
+  },
+  "Paises": "Suiza",
+  "Número de muertes": 10.09
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110cf"
+  },
+  "Paises": "Austria",
+  "Número de muertes": 8.831
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d0"
+  },
+  "Paises": "Marruecos",
+  "Número de muertes": 8.712
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d1"
+  },
+  "Paises": "Bangladés",
+  "Número de muertes": 8.502
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d2"
+  },
+  "Paises": "Japón",
+  "Número de muertes": 8.402
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d3"
+  },
+  "Paises": "Túnez",
+  "Número de muertes": 8.313
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d4"
+  },
+  "Paises": "Eslovaquia",
+  "Número de muertes": 8.244
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d5"
+  },
+  "Paises": "Grecia",
+  "Número de muertes": 6.937
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d6"
+  },
+  "Paises": "Arabia Saudí",
+  "Número de muertes": 6.551
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d7"
+  },
+  "Paises": "Guatemala",
+  "Número de muertes": 6.531
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d8"
+  },
+  "Paises": "Panamá",
+  "Número de muertes": 5.972
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110d9"
+  },
+  "Paises": "Israel",
+  "Número de muertes": 5.967
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110da"
+  },
+  "Paises": "Croacia",
+  "Número de muertes": 5.647
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110db"
+  },
+  "Paises": "Bosnia y Herzegovina",
+  "Número de muertes": 5.41
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110dc"
+  },
+  "Paises": "Líbano",
+  "Número de muertes": 5.23
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110dd"
+  },
+  "Paises": "Jordania",
+  "Número de muertes": 5.169
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110de"
+  },
+  "Paises": "Serbia",
+  "Número de muertes": 4.644
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110df"
+  },
+  "Paises": "China",
+  "Número de muertes": 4.636
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e0"
+  },
+  "Paises": "Irlanda",
+  "Número de muertes": 4.509
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e1"
+  },
+  "Paises": "Honduras",
+  "Número de muertes": 4.311
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e2"
+  },
+  "Paises": "Moldavia",
+  "Número de muertes": 4.22
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e3"
+  },
+  "Paises": "Eslovenia",
+  "Número de muertes": 3.926
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e4"
+  },
+  "Paises": "Georgia",
+  "Número de muertes": 3.634
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e5"
+  },
+  "Paises": "Paraguay",
+  "Número de muertes": 3.411
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e6"
+  },
+  "Paises": "Lituania",
+  "Número de muertes": 3.373
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e7"
+  },
+  "Paises": "Macedonia del Norte",
+  "Número de muertes": 3.265
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e8"
+  },
+  "Paises": "Azerbaiyán",
+  "Número de muertes": 3.262
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110e9"
+  },
+  "Paises": "Armenia",
+  "Número de muertes": 3.243
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ea"
+  },
+  "Paises": "Rep. Dominicana",
+  "Número de muertes": 3.204
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110eb"
+  },
+  "Paises": "Birmania",
+  "Número de muertes": 3.201
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ec"
+  },
+  "Paises": "Argelia",
+  "Número de muertes": 3.028
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ed"
+  },
+  "Paises": "Nepal",
+  "Número de muertes": 3.012
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ee"
+  },
+  "Paises": "Costa Rica",
+  "Número de muertes": 2.848
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ef"
+  },
+  "Paises": "Kazajistán",
+  "Número de muertes": 2.837
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f0"
+  },
+  "Paises": "Etiopía",
+  "Número de muertes": 2.483
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f1"
+  },
+  "Paises": "Afganistán",
+  "Número de muertes": 2.457
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f2"
+  },
+  "Paises": "Dinamarca",
+  "Número de muertes": 2.384
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f3"
+  },
+  "Paises": "Libia",
+  "Número de muertes": 2.34
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f4"
+  },
+  "Paises": "Palestina",
+  "Número de muertes": 2.211
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f5"
+  },
+  "Paises": "Bielorrusia",
+  "Número de muertes": 2.07
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f6"
+  },
+  "Paises": "Albania",
+  "Número de muertes": 2.002
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f7"
+  },
+  "Paises": "Nigeria",
+  "Número de muertes": 2.001
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f8"
+  },
+  "Paises": "Sudán",
+  "Número de muertes": 1.94
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110f9"
+  },
+  "Paises": "El Salvador",
+  "Número de muertes": 1.935
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110fa"
+  },
+  "Paises": "Kenia",
+  "Número de muertes": 1.899
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110fb"
+  },
+  "Paises": "Letonia",
+  "Número de muertes": 1.737
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110fc"
+  },
+  "Paises": "Corea del Sur",
+  "Número de muertes": 1.662
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110fd"
+  },
+  "Paises": "Omán",
+  "Número de muertes": 1.6
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110fe"
+  },
+  "Paises": "Zimbabue",
+  "Número de muertes": 1.492
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f110ff"
+  },
+  "Paises": "Kirguistán",
+  "Número de muertes": 1.48
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11100"
+  },
+  "Paises": "Venezuela",
+  "Número de muertes": 1.415
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11101"
+  },
+  "Paises": "Emiratos Árabes Unidos",
+  "Número de muertes": 1.378
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11102"
+  },
+  "Paises": "Malasia",
+  "Número de muertes": 1.203
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11103"
+  },
+  "Paises": "Kuwait",
+  "Número de muertes": 1.148
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11104"
+  },
+  "Paises": "Zambia",
+  "Número de muertes": 1.148
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11105"
+  },
+  "Paises": "Montenegro",
+  "Número de muertes": 1.113
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11106"
+  },
+  "Paises": "Siria",
+  "Número de muertes": 1.085
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11107"
+  },
+  "Paises": "Malaui",
+  "Número de muertes": 1.078
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11108"
+  },
+  "Paises": "Senegal",
+  "Número de muertes": 951
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11109"
+  },
+  "Paises": "Australia",
+  "Número de muertes": 909
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1110a"
+  },
+  "Paises": "Finlandia",
+  "Número de muertes": 776
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1110b"
+  },
+  "Paises": "Rep. Dem. del Congo",
+  "Número de muertes": 712
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1110c"
+  },
+  "Paises": "Mozambique",
+  "Número de muertes": 711
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1110d"
+  },
+  "Paises": "Estonia",
+  "Número de muertes": 695
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1110e"
+  },
+  "Paises": "Uruguay",
+  "Número de muertes": 683
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1110f"
+  },
+  "Paises": "Luxemburgo",
+  "Número de muertes": 675
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11110"
+  },
+  "Paises": "Yemen",
+  "Número de muertes": 667
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11111"
+  },
+  "Paises": "Suazliandia",
+  "Número de muertes": 659
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11112"
+  },
+  "Paises": "Ghana",
+  "Número de muertes": 656
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11113"
+  },
+  "Paises": "Noruega",
+  "Número de muertes": 639
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11114"
+  },
+  "Paises": "Uzbekistán",
+  "Número de muertes": 622
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11115"
+  },
+  "Paises": "Camerún",
+  "Número de muertes": 601
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11116"
+  },
+  "Paises": "Sri Lanka",
+  "Número de muertes": 520
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11117"
+  },
+  "Paises": "Angola",
+  "Número de muertes": 517
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11118"
+  },
+  "Paises": "Baréin",
+  "Número de muertes": 478
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11119"
+  },
+  "Paises": "Jamaica",
+  "Número de muertes": 475
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1111a"
+  },
+  "Paises": "Namibia",
+  "Número de muertes": 450
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1111b"
+  },
+  "Paises": "Mauritania",
+  "Número de muertes": 442
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1111c"
+  },
+  "Paises": "Botsuana",
+  "Número de muertes": 424
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1111d"
+  },
+  "Paises": "Cuba",
+  "Número de muertes": 361
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1111e"
+  },
+  "Paises": "Mali",
+  "Número de muertes": 359
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1111f"
+  },
+  "Paises": "Malta",
+  "Número de muertes": 341
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11120"
+  },
+  "Paises": "Somalia",
+  "Número de muertes": 338
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11121"
+  },
+  "Paises": "Uganda",
+  "Número de muertes": 334
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11122"
+  },
+  "Paises": "Belice",
+  "Número de muertes": 316
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11123"
+  },
+  "Paises": "Lesoto",
+  "Número de muertes": 309
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11124"
+  },
+  "Paises": "Madagascar",
+  "Número de muertes": 300
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11125"
+  },
+  "Paises": "Ruanda",
+  "Número de muertes": 273
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11126"
+  },
+  "Paises": "Qatar",
+  "Número de muertes": 265
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11127"
+  },
+  "Paises": "Haití",
+  "Número de muertes": 250
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11128"
+  },
+  "Paises": "Chipre",
+  "Número de muertes": 236
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11129"
+  },
+  "Paises": "Costa de Marfil",
+  "Número de muertes": 209
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1112a"
+  },
+  "Paises": "Guayana",
+  "Número de muertes": 206
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1112b"
+  },
+  "Paises": "Hong Kong",
+  "Número de muertes": 203
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1112c"
+  },
+  "Paises": "Bahamas",
+  "Número de muertes": 185
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1112d"
+  },
+  "Paises": "Níger",
+  "Número de muertes": 180
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1112e"
+  },
+  "Paises": "Surinam",
+  "Número de muertes": 176
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1112f"
+  },
+  "Paises": "Nicaragua",
+  "Número de muertes": 175
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11130"
+  },
+  "Paises": "Guadalupe",
+  "Número de muertes": 162
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11131"
+  },
+  "Paises": "Cabo Verde",
+  "Número de muertes": 155
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11132"
+  },
+  "Paises": "Gambia",
+  "Número de muertes": 153
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11133"
+  },
+  "Paises": "Chad",
+  "Número de muertes": 151
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11134"
+  },
+  "Paises": "Comoras",
+  "Número de muertes": 146
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11135"
+  },
+  "Paises": "Burkina Faso",
+  "Número de muertes": 143
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11136"
+  },
+  "Paises": "Polinesia Francesa",
+  "Número de muertes": 141
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11137"
+  },
+  "Paises": "Trinidad y Tobago",
+  "Número de muertes": 140
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11138"
+  },
+  "Paises": "Congo",
+  "Número de muertes": 131
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11139"
+  },
+  "Paises": "Mayotte",
+  "Número de muertes": 129
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1113a"
+  },
+  "Paises": "Andorra",
+  "Número de muertes": 112
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1113b"
+  },
+  "Paises": "Sudán del Sur",
+  "Número de muertes": 103
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1113c"
+  },
+  "Paises": "Guinea",
+  "Número de muertes": 101
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1113d"
+  },
+  "Paises": "Guinea Ecuatorial",
+  "Número de muertes": 98
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1113e"
+  },
+  "Paises": "Gabón",
+  "Número de muertes": 93
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1113f"
+  },
+  "Paises": "Togo",
+  "Número de muertes": 93
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11140"
+  },
+  "Paises": "Gibraltar",
+  "Número de muertes": 93
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11141"
+  },
+  "Paises": "Tayikistán",
+  "Número de muertes": 90
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11142"
+  },
+  "Paises": "Guayana Francesa",
+  "Número de muertes": 87
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11143"
+  },
+  "Paises": "Islas del Canal",
+  "Número de muertes": 86
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11144"
+  },
+  "Paises": "Tailandia",
+  "Número de muertes": 85
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11145"
+  },
+  "Paises": "Liberia",
+  "Número de muertes": 85
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11146"
+  },
+  "Paises": "Benín",
+  "Número de muertes": 81
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11147"
+  },
+  "Paises": "Sierra Leona",
+  "Número de muertes": 79
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11148"
+  },
+  "Paises": "Aruba",
+  "Número de muertes": 77
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11149"
+  },
+  "Paises": "San Marino",
+  "Número de muertes": 77
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1114a"
+  },
+  "Paises": "Reunión",
+  "Número de muertes": 71
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1114b"
+  },
+  "Paises": "Maldivas",
+  "Número de muertes": 64
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1114c"
+  },
+  "Paises": "Yibuti",
+  "Número de muertes": 63
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1114d"
+  },
+  "Paises": "Rep. Centroafricana",
+  "Número de muertes": 63
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1114e"
+  },
+  "Paises": "Liechtenstein",
+  "Número de muertes": 55
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1114f"
+  },
+  "Paises": "Guinea-Bissau",
+  "Número de muertes": 51
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11150"
+  },
+  "Paises": "Martinica",
+  "Número de muertes": 47
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11151"
+  },
+  "Paises": "Santa Lucía",
+  "Número de muertes": 47
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11152"
+  },
+  "Paises": "Barbados",
+  "Número de muertes": 37
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11153"
+  },
+  "Paises": "Vietnam",
+  "Número de muertes": 35
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11154"
+  },
+  "Paises": "Santo Tomé y Príncipe",
+  "Número de muertes": 32
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11155"
+  },
+  "Paises": "Singapur",
+  "Número de muertes": 29
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11156"
+  },
+  "Paises": "Islandia",
+  "Número de muertes": 29
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11157"
+  },
+  "Paises": "San Martín",
+  "Número de muertes": 27
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11158"
+  },
+  "Paises": "Nueva Zelanda",
+  "Número de muertes": 26
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11159"
+  },
+  "Paises": "Mónaco",
+  "Número de muertes": 26
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1115a"
+  },
+  "Paises": "Isla de Man",
+  "Número de muertes": 25
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1115b"
+  },
+  "Paises": "Antigua y Barbuda",
+  "Número de muertes": 25
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1115c"
+  },
+  "Paises": "Curazao",
+  "Número de muertes": 22
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1115d"
+  },
+  "Paises": "Papúa Nueva Guinea",
+  "Número de muertes": 21
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1115e"
+  },
+  "Paises": "Tanzania",
+  "Número de muertes": 21
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1115f"
+  },
+  "Paises": "Turcas y Caicos",
+  "Número de muertes": 15
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11160"
+  },
+  "Paises": "PD",
+  "Número de muertes": 13
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11161"
+  },
+  "Paises": "Isla de San Martín*",
+  "Número de muertes": 12
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11162"
+  },
+  "Paises": "Islas Bermudas",
+  "Número de muertes": 12
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11163"
+  },
+  "Paises": "Taiwán",
+  "Número de muertes": 10
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11164"
+  },
+  "Paises": "Mauricio",
+  "Número de muertes": 10
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11165"
+  },
+  "Paises": "San Vicente y Granadinas",
+  "Número de muertes": 8
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11166"
+  },
+  "Paises": "Eritrea",
+  "Número de muertes": 7
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11167"
+  },
+  "Paises": "Caribe Neerlandés",
+  "Número de muertes": 6
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11168"
+  },
+  "Paises": "Mongolia",
+  "Número de muertes": 4
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11169"
+  },
+  "Paises": "Burundi",
+  "Número de muertes": 3
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1116a"
+  },
+  "Paises": "Brunei",
+  "Número de muertes": 3
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1116b"
+  },
+  "Paises": "Islas Caimán",
+  "Número de muertes": 2
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1116c"
+  },
+  "Paises": "Fiyi",
+  "Número de muertes": 2
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1116d"
+  },
+  "Paises": "Camboya",
+  "Número de muertes": 1
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1116e"
+  },
+  "Paises": "Bután",
+  "Número de muertes": 1
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f1116f"
+  },
+  "Paises": "Islas Feroe",
+  "Número de muertes": 1
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11170"
+  },
+  "Paises": "St. Barth",
+  "Número de muertes": 1
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11171"
+  },
+  "Paises": "Islas Vírgenes Británicas",
+  "Número de muertes": 1
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11172"
+  },
+  "Paises": "Granada",
+  "Número de muertes": 1
+},
+{
+  "_id": {
+    "$oid": "66b6cd3a21c9dc39b2f11173"
+  },
+  "Paises": "Montserrat",
+  "Número de muertes": 1
+}]

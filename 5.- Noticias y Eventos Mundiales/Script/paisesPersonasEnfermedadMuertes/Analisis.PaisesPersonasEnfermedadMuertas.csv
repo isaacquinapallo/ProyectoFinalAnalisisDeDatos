@@ -1,0 +1,202 @@
+_id,Paises,Número de muertes
+{'$oid': '66b6cd3a21c9dc39b2f110ab'},EE.UU,543.721
+{'$oid': '66b6cd3a21c9dc39b2f110ac'},Brasil,273.124
+{'$oid': '66b6cd3a21c9dc39b2f110ad'},México,193.142
+{'$oid': '66b6cd3a21c9dc39b2f110ae'},India,158.326
+{'$oid': '66b6cd3a21c9dc39b2f110af'},Reino Unido,125.168
+{'$oid': '66b6cd3a21c9dc39b2f110b0'},Italia,101.184
+{'$oid': '66b6cd3a21c9dc39b2f110b1'},Rusia,91.22
+{'$oid': '66b6cd3a21c9dc39b2f110b2'},Francia,89.83
+{'$oid': '66b6cd3a21c9dc39b2f110b3'},Alemania,73.56
+{'$oid': '66b6cd3a21c9dc39b2f110b4'},España,72.085
+{'$oid': '66b6cd3a21c9dc39b2f110b5'},Irán,61.016
+{'$oid': '66b6cd3a21c9dc39b2f110b6'},Colombia,60.858
+{'$oid': '66b6cd3a21c9dc39b2f110b7'},Argentina,53.493
+{'$oid': '66b6cd3a21c9dc39b2f110b8'},Sudáfrica,51.11
+{'$oid': '66b6cd3a21c9dc39b2f110b9'},Perú,48.484
+{'$oid': '66b6cd3a21c9dc39b2f110ba'},Polonia,46.724
+{'$oid': '66b6cd3a21c9dc39b2f110bb'},Indonesia,38.229
+{'$oid': '66b6cd3a21c9dc39b2f110bc'},Turquía,29.29
+{'$oid': '66b6cd3a21c9dc39b2f110bd'},Ucrania,27.915
+{'$oid': '66b6cd3a21c9dc39b2f110be'},Rep. Checa,22.865
+{'$oid': '66b6cd3a21c9dc39b2f110bf'},Canadá,22.371
+{'$oid': '66b6cd3a21c9dc39b2f110c0'},Bélgica,22.37
+{'$oid': '66b6cd3a21c9dc39b2f110c1'},Chile,21.362
+{'$oid': '66b6cd3a21c9dc39b2f110c2'},Rumanía,21.252
+{'$oid': '66b6cd3a21c9dc39b2f110c3'},Portugal,16.635
+{'$oid': '66b6cd3a21c9dc39b2f110c4'},Hungría,16.627
+{'$oid': '66b6cd3a21c9dc39b2f110c5'},Ecuador,16.128
+{'$oid': '66b6cd3a21c9dc39b2f110c6'},Países Bajos,15.998
+{'$oid': '66b6cd3a21c9dc39b2f110c7'},Irak,13.671
+{'$oid': '66b6cd3a21c9dc39b2f110c8'},Pakistán,13.43
+{'$oid': '66b6cd3a21c9dc39b2f110c9'},Suecia,13.111
+{'$oid': '66b6cd3a21c9dc39b2f110ca'},Filipinas,12.694
+{'$oid': '66b6cd3a21c9dc39b2f110cb'},Bolivia,11.903
+{'$oid': '66b6cd3a21c9dc39b2f110cc'},Egipto,11.169
+{'$oid': '66b6cd3a21c9dc39b2f110cd'},Bulgaria,11.094
+{'$oid': '66b6cd3a21c9dc39b2f110ce'},Suiza,10.09
+{'$oid': '66b6cd3a21c9dc39b2f110cf'},Austria,8.831
+{'$oid': '66b6cd3a21c9dc39b2f110d0'},Marruecos,8.712
+{'$oid': '66b6cd3a21c9dc39b2f110d1'},Bangladés,8.502
+{'$oid': '66b6cd3a21c9dc39b2f110d2'},Japón,8.402
+{'$oid': '66b6cd3a21c9dc39b2f110d3'},Túnez,8.313
+{'$oid': '66b6cd3a21c9dc39b2f110d4'},Eslovaquia,8.244
+{'$oid': '66b6cd3a21c9dc39b2f110d5'},Grecia,6.937
+{'$oid': '66b6cd3a21c9dc39b2f110d6'},Arabia Saudí,6.551
+{'$oid': '66b6cd3a21c9dc39b2f110d7'},Guatemala,6.531
+{'$oid': '66b6cd3a21c9dc39b2f110d8'},Panamá,5.972
+{'$oid': '66b6cd3a21c9dc39b2f110d9'},Israel,5.967
+{'$oid': '66b6cd3a21c9dc39b2f110da'},Croacia,5.647
+{'$oid': '66b6cd3a21c9dc39b2f110db'},Bosnia y Herzegovina,5.41
+{'$oid': '66b6cd3a21c9dc39b2f110dc'},Líbano,5.23
+{'$oid': '66b6cd3a21c9dc39b2f110dd'},Jordania,5.169
+{'$oid': '66b6cd3a21c9dc39b2f110de'},Serbia,4.644
+{'$oid': '66b6cd3a21c9dc39b2f110df'},China,4.636
+{'$oid': '66b6cd3a21c9dc39b2f110e0'},Irlanda,4.509
+{'$oid': '66b6cd3a21c9dc39b2f110e1'},Honduras,4.311
+{'$oid': '66b6cd3a21c9dc39b2f110e2'},Moldavia,4.22
+{'$oid': '66b6cd3a21c9dc39b2f110e3'},Eslovenia,3.926
+{'$oid': '66b6cd3a21c9dc39b2f110e4'},Georgia,3.634
+{'$oid': '66b6cd3a21c9dc39b2f110e5'},Paraguay,3.411
+{'$oid': '66b6cd3a21c9dc39b2f110e6'},Lituania,3.373
+{'$oid': '66b6cd3a21c9dc39b2f110e7'},Macedonia del Norte,3.265
+{'$oid': '66b6cd3a21c9dc39b2f110e8'},Azerbaiyán,3.262
+{'$oid': '66b6cd3a21c9dc39b2f110e9'},Armenia,3.243
+{'$oid': '66b6cd3a21c9dc39b2f110ea'},Rep. Dominicana,3.204
+{'$oid': '66b6cd3a21c9dc39b2f110eb'},Birmania,3.201
+{'$oid': '66b6cd3a21c9dc39b2f110ec'},Argelia,3.028
+{'$oid': '66b6cd3a21c9dc39b2f110ed'},Nepal,3.012
+{'$oid': '66b6cd3a21c9dc39b2f110ee'},Costa Rica,2.848
+{'$oid': '66b6cd3a21c9dc39b2f110ef'},Kazajistán,2.837
+{'$oid': '66b6cd3a21c9dc39b2f110f0'},Etiopía,2.483
+{'$oid': '66b6cd3a21c9dc39b2f110f1'},Afganistán,2.457
+{'$oid': '66b6cd3a21c9dc39b2f110f2'},Dinamarca,2.384
+{'$oid': '66b6cd3a21c9dc39b2f110f3'},Libia,2.34
+{'$oid': '66b6cd3a21c9dc39b2f110f4'},Palestina,2.211
+{'$oid': '66b6cd3a21c9dc39b2f110f5'},Bielorrusia,2.07
+{'$oid': '66b6cd3a21c9dc39b2f110f6'},Albania,2.002
+{'$oid': '66b6cd3a21c9dc39b2f110f7'},Nigeria,2.001
+{'$oid': '66b6cd3a21c9dc39b2f110f8'},Sudán,1.94
+{'$oid': '66b6cd3a21c9dc39b2f110f9'},El Salvador,1.935
+{'$oid': '66b6cd3a21c9dc39b2f110fa'},Kenia,1.899
+{'$oid': '66b6cd3a21c9dc39b2f110fb'},Letonia,1.737
+{'$oid': '66b6cd3a21c9dc39b2f110fc'},Corea del Sur,1.662
+{'$oid': '66b6cd3a21c9dc39b2f110fd'},Omán,1.6
+{'$oid': '66b6cd3a21c9dc39b2f110fe'},Zimbabue,1.492
+{'$oid': '66b6cd3a21c9dc39b2f110ff'},Kirguistán,1.48
+{'$oid': '66b6cd3a21c9dc39b2f11100'},Venezuela,1.415
+{'$oid': '66b6cd3a21c9dc39b2f11101'},Emiratos Árabes Unidos,1.378
+{'$oid': '66b6cd3a21c9dc39b2f11102'},Malasia,1.203
+{'$oid': '66b6cd3a21c9dc39b2f11103'},Kuwait,1.148
+{'$oid': '66b6cd3a21c9dc39b2f11104'},Zambia,1.148
+{'$oid': '66b6cd3a21c9dc39b2f11105'},Montenegro,1.113
+{'$oid': '66b6cd3a21c9dc39b2f11106'},Siria,1.085
+{'$oid': '66b6cd3a21c9dc39b2f11107'},Malaui,1.078
+{'$oid': '66b6cd3a21c9dc39b2f11108'},Senegal,951
+{'$oid': '66b6cd3a21c9dc39b2f11109'},Australia,909
+{'$oid': '66b6cd3a21c9dc39b2f1110a'},Finlandia,776
+{'$oid': '66b6cd3a21c9dc39b2f1110b'},Rep. Dem. del Congo,712
+{'$oid': '66b6cd3a21c9dc39b2f1110c'},Mozambique,711
+{'$oid': '66b6cd3a21c9dc39b2f1110d'},Estonia,695
+{'$oid': '66b6cd3a21c9dc39b2f1110e'},Uruguay,683
+{'$oid': '66b6cd3a21c9dc39b2f1110f'},Luxemburgo,675
+{'$oid': '66b6cd3a21c9dc39b2f11110'},Yemen,667
+{'$oid': '66b6cd3a21c9dc39b2f11111'},Suazliandia,659
+{'$oid': '66b6cd3a21c9dc39b2f11112'},Ghana,656
+{'$oid': '66b6cd3a21c9dc39b2f11113'},Noruega,639
+{'$oid': '66b6cd3a21c9dc39b2f11114'},Uzbekistán,622
+{'$oid': '66b6cd3a21c9dc39b2f11115'},Camerún,601
+{'$oid': '66b6cd3a21c9dc39b2f11116'},Sri Lanka,520
+{'$oid': '66b6cd3a21c9dc39b2f11117'},Angola,517
+{'$oid': '66b6cd3a21c9dc39b2f11118'},Baréin,478
+{'$oid': '66b6cd3a21c9dc39b2f11119'},Jamaica,475
+{'$oid': '66b6cd3a21c9dc39b2f1111a'},Namibia,450
+{'$oid': '66b6cd3a21c9dc39b2f1111b'},Mauritania,442
+{'$oid': '66b6cd3a21c9dc39b2f1111c'},Botsuana,424
+{'$oid': '66b6cd3a21c9dc39b2f1111d'},Cuba,361
+{'$oid': '66b6cd3a21c9dc39b2f1111e'},Mali,359
+{'$oid': '66b6cd3a21c9dc39b2f1111f'},Malta,341
+{'$oid': '66b6cd3a21c9dc39b2f11120'},Somalia,338
+{'$oid': '66b6cd3a21c9dc39b2f11121'},Uganda,334
+{'$oid': '66b6cd3a21c9dc39b2f11122'},Belice,316
+{'$oid': '66b6cd3a21c9dc39b2f11123'},Lesoto,309
+{'$oid': '66b6cd3a21c9dc39b2f11124'},Madagascar,300
+{'$oid': '66b6cd3a21c9dc39b2f11125'},Ruanda,273
+{'$oid': '66b6cd3a21c9dc39b2f11126'},Qatar,265
+{'$oid': '66b6cd3a21c9dc39b2f11127'},Haití,250
+{'$oid': '66b6cd3a21c9dc39b2f11128'},Chipre,236
+{'$oid': '66b6cd3a21c9dc39b2f11129'},Costa de Marfil,209
+{'$oid': '66b6cd3a21c9dc39b2f1112a'},Guayana,206
+{'$oid': '66b6cd3a21c9dc39b2f1112b'},Hong Kong,203
+{'$oid': '66b6cd3a21c9dc39b2f1112c'},Bahamas,185
+{'$oid': '66b6cd3a21c9dc39b2f1112d'},Níger,180
+{'$oid': '66b6cd3a21c9dc39b2f1112e'},Surinam,176
+{'$oid': '66b6cd3a21c9dc39b2f1112f'},Nicaragua,175
+{'$oid': '66b6cd3a21c9dc39b2f11130'},Guadalupe,162
+{'$oid': '66b6cd3a21c9dc39b2f11131'},Cabo Verde,155
+{'$oid': '66b6cd3a21c9dc39b2f11132'},Gambia,153
+{'$oid': '66b6cd3a21c9dc39b2f11133'},Chad,151
+{'$oid': '66b6cd3a21c9dc39b2f11134'},Comoras,146
+{'$oid': '66b6cd3a21c9dc39b2f11135'},Burkina Faso,143
+{'$oid': '66b6cd3a21c9dc39b2f11136'},Polinesia Francesa,141
+{'$oid': '66b6cd3a21c9dc39b2f11137'},Trinidad y Tobago,140
+{'$oid': '66b6cd3a21c9dc39b2f11138'},Congo,131
+{'$oid': '66b6cd3a21c9dc39b2f11139'},Mayotte,129
+{'$oid': '66b6cd3a21c9dc39b2f1113a'},Andorra,112
+{'$oid': '66b6cd3a21c9dc39b2f1113b'},Sudán del Sur,103
+{'$oid': '66b6cd3a21c9dc39b2f1113c'},Guinea,101
+{'$oid': '66b6cd3a21c9dc39b2f1113d'},Guinea Ecuatorial,98
+{'$oid': '66b6cd3a21c9dc39b2f1113e'},Gabón,93
+{'$oid': '66b6cd3a21c9dc39b2f1113f'},Togo,93
+{'$oid': '66b6cd3a21c9dc39b2f11140'},Gibraltar,93
+{'$oid': '66b6cd3a21c9dc39b2f11141'},Tayikistán,90
+{'$oid': '66b6cd3a21c9dc39b2f11142'},Guayana Francesa,87
+{'$oid': '66b6cd3a21c9dc39b2f11143'},Islas del Canal,86
+{'$oid': '66b6cd3a21c9dc39b2f11144'},Tailandia,85
+{'$oid': '66b6cd3a21c9dc39b2f11145'},Liberia,85
+{'$oid': '66b6cd3a21c9dc39b2f11146'},Benín,81
+{'$oid': '66b6cd3a21c9dc39b2f11147'},Sierra Leona,79
+{'$oid': '66b6cd3a21c9dc39b2f11148'},Aruba,77
+{'$oid': '66b6cd3a21c9dc39b2f11149'},San Marino,77
+{'$oid': '66b6cd3a21c9dc39b2f1114a'},Reunión,71
+{'$oid': '66b6cd3a21c9dc39b2f1114b'},Maldivas,64
+{'$oid': '66b6cd3a21c9dc39b2f1114c'},Yibuti,63
+{'$oid': '66b6cd3a21c9dc39b2f1114d'},Rep. Centroafricana,63
+{'$oid': '66b6cd3a21c9dc39b2f1114e'},Liechtenstein,55
+{'$oid': '66b6cd3a21c9dc39b2f1114f'},Guinea-Bissau,51
+{'$oid': '66b6cd3a21c9dc39b2f11150'},Martinica,47
+{'$oid': '66b6cd3a21c9dc39b2f11151'},Santa Lucía,47
+{'$oid': '66b6cd3a21c9dc39b2f11152'},Barbados,37
+{'$oid': '66b6cd3a21c9dc39b2f11153'},Vietnam,35
+{'$oid': '66b6cd3a21c9dc39b2f11154'},Santo Tomé y Príncipe,32
+{'$oid': '66b6cd3a21c9dc39b2f11155'},Singapur,29
+{'$oid': '66b6cd3a21c9dc39b2f11156'},Islandia,29
+{'$oid': '66b6cd3a21c9dc39b2f11157'},San Martín,27
+{'$oid': '66b6cd3a21c9dc39b2f11158'},Nueva Zelanda,26
+{'$oid': '66b6cd3a21c9dc39b2f11159'},Mónaco,26
+{'$oid': '66b6cd3a21c9dc39b2f1115a'},Isla de Man,25
+{'$oid': '66b6cd3a21c9dc39b2f1115b'},Antigua y Barbuda,25
+{'$oid': '66b6cd3a21c9dc39b2f1115c'},Curazao,22
+{'$oid': '66b6cd3a21c9dc39b2f1115d'},Papúa Nueva Guinea,21
+{'$oid': '66b6cd3a21c9dc39b2f1115e'},Tanzania,21
+{'$oid': '66b6cd3a21c9dc39b2f1115f'},Turcas y Caicos,15
+{'$oid': '66b6cd3a21c9dc39b2f11160'},PD,13
+{'$oid': '66b6cd3a21c9dc39b2f11161'},Isla de San Martín*,12
+{'$oid': '66b6cd3a21c9dc39b2f11162'},Islas Bermudas,12
+{'$oid': '66b6cd3a21c9dc39b2f11163'},Taiwán,10
+{'$oid': '66b6cd3a21c9dc39b2f11164'},Mauricio,10
+{'$oid': '66b6cd3a21c9dc39b2f11165'},San Vicente y Granadinas,8
+{'$oid': '66b6cd3a21c9dc39b2f11166'},Eritrea,7
+{'$oid': '66b6cd3a21c9dc39b2f11167'},Caribe Neerlandés,6
+{'$oid': '66b6cd3a21c9dc39b2f11168'},Mongolia,4
+{'$oid': '66b6cd3a21c9dc39b2f11169'},Burundi,3
+{'$oid': '66b6cd3a21c9dc39b2f1116a'},Brunei,3
+{'$oid': '66b6cd3a21c9dc39b2f1116b'},Islas Caimán,2
+{'$oid': '66b6cd3a21c9dc39b2f1116c'},Fiyi,2
+{'$oid': '66b6cd3a21c9dc39b2f1116d'},Camboya,1
+{'$oid': '66b6cd3a21c9dc39b2f1116e'},Bután,1
+{'$oid': '66b6cd3a21c9dc39b2f1116f'},Islas Feroe,1
+{'$oid': '66b6cd3a21c9dc39b2f11170'},St. Barth,1
+{'$oid': '66b6cd3a21c9dc39b2f11171'},Islas Vírgenes Británicas,1
+{'$oid': '66b6cd3a21c9dc39b2f11172'},Granada,1
+{'$oid': '66b6cd3a21c9dc39b2f11173'},Montserrat,1

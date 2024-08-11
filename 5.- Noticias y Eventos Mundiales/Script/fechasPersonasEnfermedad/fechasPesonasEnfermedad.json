@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa00"
+  },
+  "fecha": "3 feb 20",
+  "curados": 643
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa01"
+  },
+  "fecha": "10 feb 20",
+  "curados": 4.043
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa02"
+  },
+  "fecha": "17 feb 20",
+  "curados": 12.712
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa03"
+  },
+  "fecha": "24 feb 20",
+  "curados": 29.467
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa04"
+  },
+  "fecha": "2 mar 20",
+  "curados": 48.108
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa05"
+  },
+  "fecha": "9 mar 20",
+  "curados": 64.058
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa06"
+  },
+  "fecha": "16 mar 20",
+  "curados": 79.658
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa07"
+  },
+  "fecha": "23 mar 20",
+  "curados": 102.168
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa08"
+  },
+  "fecha": "30 mar 20",
+  "curados": 169.773
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa09"
+  },
+  "fecha": "6 abr 20",
+  "curados": 307.554
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa0a"
+  },
+  "fecha": "13 abr 20",
+  "curados": 525.013
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa0b"
+  },
+  "fecha": "20 abr 20",
+  "curados": 807.327
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa0c"
+  },
+  "fecha": "27 abr 20",
+  "curados": "1.147.774"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa0d"
+  },
+  "fecha": "4 may 20",
+  "curados": "1.450.918"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa0e"
+  },
+  "fecha": "11 may 20",
+  "curados": "1.796.412"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa0f"
+  },
+  "fecha": "18 may 20",
+  "curados": "2.195.657"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa10"
+  },
+  "fecha": "25 may 20",
+  "curados": "2.710.384"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa11"
+  },
+  "fecha": "1 jun 20",
+  "curados": "3.316.022"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa12"
+  },
+  "fecha": "8 jun 20",
+  "curados": "3.996.711"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa13"
+  },
+  "fecha": "15 jun 20",
+  "curados": "4.717.314"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa14"
+  },
+  "fecha": "22 jun 20",
+  "curados": "5.506.787"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa15"
+  },
+  "fecha": "29 jun 20",
+  "curados": "6.331.694"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa16"
+  },
+  "fecha": "6 jul 20",
+  "curados": "7.286.012"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa17"
+  },
+  "fecha": "13 jul 20",
+  "curados": "8.358.992"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa18"
+  },
+  "fecha": "20 jul 20",
+  "curados": "9.571.001"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa19"
+  },
+  "fecha": "27 jul 20",
+  "curados": "10.912.089"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa1a"
+  },
+  "fecha": "3 ago 20",
+  "curados": "12.379.555"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa1b"
+  },
+  "fecha": "10 ago 20",
+  "curados": "13.884.776"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa1c"
+  },
+  "fecha": "17 ago 20",
+  "curados": "15.517.243"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa1d"
+  },
+  "fecha": "24 ago 20",
+  "curados": "17.121.787"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa1e"
+  },
+  "fecha": "31 ago 20",
+  "curados": "18.749.372"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa1f"
+  },
+  "fecha": "7 sep 20",
+  "curados": "20.467.620"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa20"
+  },
+  "fecha": "14 sep 20",
+  "curados": "22.230.344"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa21"
+  },
+  "fecha": "21 sep 20",
+  "curados": "24.145.318"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa22"
+  },
+  "fecha": "28 sep 20",
+  "curados": "26.012.661"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa23"
+  },
+  "fecha": "5 oct 20",
+  "curados": "27.837.237"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa24"
+  },
+  "fecha": "12 oct 20",
+  "curados": "29.694.890"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa25"
+  },
+  "fecha": "19 oct 20",
+  "curados": "31.574.545"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa26"
+  },
+  "fecha": "26 oct 20",
+  "curados": "33.532.554"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa27"
+  },
+  "fecha": "2 nov 20",
+  "curados": "35.525.491"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa28"
+  },
+  "fecha": "9 nov 20",
+  "curados": "37.685.019"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa29"
+  },
+  "fecha": "16 nov 20",
+  "curados": "40.249.140"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa2a"
+  },
+  "fecha": "23 nov 20",
+  "curados": "43.150.751"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa2b"
+  },
+  "fecha": "30 nov 20",
+  "curados": "46.302.608"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa2c"
+  },
+  "fecha": "7 dic 20",
+  "curados": "49.752.788"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa2d"
+  },
+  "fecha": "14 dic 20",
+  "curados": "53.344.829"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa2e"
+  },
+  "fecha": "21 dic 20",
+  "curados": "56.870.205"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa2f"
+  },
+  "fecha": "28 dic 20",
+  "curados": "60.294.785"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa30"
+  },
+  "fecha": "4 ene 21",
+  "curados": "63.800.850"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa31"
+  },
+  "fecha": "11 ene 21",
+  "curados": "67.103.423"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa32"
+  },
+  "fecha": "18 ene 21",
+  "curados": "70.551.293"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa33"
+  },
+  "fecha": "25 ene 21",
+  "curados": "74.157.972"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa34"
+  },
+  "fecha": "1 feb 21",
+  "curados": "77.709.941"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa35"
+  },
+  "fecha": "8 feb 21",
+  "curados": "81.135.779"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa36"
+  },
+  "fecha": "15 feb 21",
+  "curados": "84.364.632"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa37"
+  },
+  "fecha": "22 feb 21",
+  "curados": "87.806.058"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa38"
+  },
+  "fecha": "1 mar 21",
+  "curados": "90.713.451"
+},
+{
+  "_id": {
+    "$oid": "66b82821c460ba21a0c9fa39"
+  },
+  "fecha": "8 mar 21",
+  "curados": "93.446.970"
+}]
