@@ -1,4 +1,8 @@
 Proyecto Final – Bimestre 2
+VIDEOS
+-
+-
+- Noticias y Eventos Mundiales: 
 
 En el presente proyecto, titulado "Análisis de Datos", los integrantes Karla Rodríguez, Isaac Quinapallo y Ángel Villamil aplicarán los conocimientos adquiridos sobre análisis de datos, extracción, limpieza, transformación y visualización utilizando la herramienta Power BI. El objetivo principal es diseñar una arquitectura compleja que integre al menos diez fuentes de datos de temáticas diversas, abarcando eventos deportivos, pulso político, actividades y hobbies, eventos o noticias mundiales, entre otros.
 
