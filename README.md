@@ -14,6 +14,7 @@ A lo largo del proyecto, se desarrollarán dashboards explicativos que servirán
 
 ### [Juegos en línea por países](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/4.%20Actividades%20y%20Hobbies/Juegos%20en%20Linea%20por%20Paises%20y%20Warzone)
 Este enlace contiene los datos y gráficos relacionados en base a los juegos en linea por paises y el juego Warzone.
+Video: https://youtu.be/cAY835OKNp0
 
 ### [Noticias y Eventos Mundiales](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/5.-%20Noticias%20y%20Eventos%20Mundiales)
 Contiene los datos recolectados, los scripts y las visualizaciones de los datos.
@@ -23,5 +24,5 @@ Contiene los archivos generados y encontrados, y los gráficos que se realizo me
 
 ### Videos de Youtube
 -
-- Enfrentamientos Policiales y Juegos en linea: 
+- Enfrentamientos Policiales y Juegos en linea: https://youtu.be/cAY835OKNp0
 - Noticias y Eventos Mundiales: https://youtu.be/bLGqD7c-uIU
