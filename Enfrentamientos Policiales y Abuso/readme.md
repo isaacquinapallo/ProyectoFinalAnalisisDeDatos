@@ -1,6 +1,6 @@
 # Enfrentamientos policiales en Estados Unidos.
 
-Para obtener los datos, se descargó un archivo .csv del sitio web data.world. Este archivo contiene información sobre los enfrentamientos de la policía en los Estados Unidos, proporcionando detalles sobre los delincuentes, como el tipo de arma, género, edad, entre otros.
+Para obtener los datos, se descargó un archivo .XLSX del sitio web data.world. Este archivo se lo modificó para guardarlo en .CSV que contiene información sobre los enfrentamientos de la policía en los Estados Unidos, proporcionando detalles sobre los delincuentes, como el tipo de arma, género, edad, entre otros.
 
 ### Gráficas
 Los gráficos realizados se indicaran en el siguiente apartado.
