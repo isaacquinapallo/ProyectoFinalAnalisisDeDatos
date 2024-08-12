@@ -4,11 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/beac6b47-f1cd-46c0-af03-5eb2e24f1b76)
 
-VIDEOS
--
-- Enfrentamientos Policiales y Juegos en linea: 
-- Noticias y Eventos Mundiales: https://youtu.be/bLGqD7c-uIU
-
+## Introducción
 En el presente proyecto, titulado "Análisis de Datos", los integrantes Karla Rodríguez, Isaac Quinapallo y Angel Villamil aplicarán los conocimientos adquiridos sobre análisis de datos, extracción, limpieza, transformación y visualización utilizando la herramienta Power BI. El objetivo principal es diseñar una arquitectura compleja que integre al menos diez fuentes de datos de temáticas diversas, abarcando eventos deportivos, pulso político, actividades y hobbies, eventos o noticias mundiales, entre otros.
 
 El proyecto no solo se centrará en la recopilación de datos, sino también en la integración y transformación de estos, utilizando bases de datos tanto relacionales como NoSQL. Esta arquitectura permitirá el paso de datos entre diferentes tipos de bases, evidenciando la versatilidad y capacidad de manejo de grandes volúmenes de información en distintos formatos.
@@ -23,3 +19,8 @@ Contiene los datos recolectados, los scripts y las visualizaciones de los datos.
 
 ### [Enfrentamientos policiales en Estados Unidos](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/Enfrentamientos%20Policiales%20y%20Abuso)
 Contiene los archivos generados y encontrados, y los gráficos que se realizo mediante la información encontrada.
+
+### videos de Youtube
+-
+- Enfrentamientos Policiales y Juegos en linea: 
+- Noticias y Eventos Mundiales: https://youtu.be/bLGqD7c-uIU
