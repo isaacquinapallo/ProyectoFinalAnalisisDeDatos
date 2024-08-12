@@ -16,6 +16,8 @@ A lo largo del proyecto, se desarrollarán dashboards explicativos que servirán
 
 Este proyecto representa el 35% de la nota final y culminará con la entrega de un informe detallado, videos explicativos sobre el proceso y conclusiones, así como una presentación formal del proyecto. Además, se destacará la innovación y la calidad del análisis a lo largo del proceso, elementos que serán cruciales para la evaluación final. La defensa individual del proyecto está programada para el 13 de agosto de 2024.
 
-#### [Juegos en línea por países](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/4.%20Actividades%20y%20Hobbies/Juegos%20en%20Linea%20por%20Paises%20y%20Warzone)
+### [Juegos en línea por países](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/4.%20Actividades%20y%20Hobbies/Juegos%20en%20Linea%20por%20Paises%20y%20Warzone)
+Este enlace contiene los datos y gráficos relacionados en base a los juegos en linea por paises y el juego Warzone.
 
-Este enlace contiene los datos y gráficos relacionados.
+### [Enfrentamientos policiales en Estados Unidos](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/Enfrentamientos%20Policiales%20y%20Abuso).
+Contiene los archivos generados y encontrados, y los gráficos que se realizo mediante la información encontrada.
