@@ -2,7 +2,8 @@
 ### Arquitectura
 - La arquitectura general del proyecto se muestra en la siguiente imagen:
 
-  
+![image](https://github.com/user-attachments/assets/beac6b47-f1cd-46c0-af03-5eb2e24f1b76)
+
 VIDEOS
 -
 -
