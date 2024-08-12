@@ -2,8 +2,8 @@
 
 Para obtener los datos, se descargó un archivo .csv del sitio web data.world. Este archivo contiene información sobre los enfrentamientos de la policía en los Estados Unidos, proporcionando detalles sobre los delincuentes, como el tipo de arma, género, edad, entre otros.
 
-### Graficas
-Los graficos realizados se indicaran en el siguiente apartado.
+### Gráficas
+Los gráficos realizados se indicaran en el siguiente apartado.
 
 - En el primer gráfico podemos ver en que tipo de armas fueron usadas por promedio de edad, indicandonos en forma de barra y tabla.
 
