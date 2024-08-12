@@ -1,5 +1,5 @@
 # Juegos en linea por paises y Warzone.
-
+### Arquitectura
 Los datos se obtienen de fuentes en línea como Statista y Gamstat (Página dada de baja). Los conjuntos de datos se descargarán en formato DB.SQLITE y luego se importarán a SQLITE para exportarlo en CSV y por ultimo conectarlo a SQL Server para su almacenamiento. Para analizar los datos, se utilizarán las funciones integradas de Power BI, ya que este permite exportar bases de datos completas desde SQL Server para su análisis y visualización gráfica.
 
 ### Graficas
