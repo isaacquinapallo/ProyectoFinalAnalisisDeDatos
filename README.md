@@ -20,7 +20,7 @@ Contiene los datos recolectados, los scripts y las visualizaciones de los datos.
 ### [Enfrentamientos policiales en Estados Unidos](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/Enfrentamientos%20Policiales%20y%20Abuso)
 Contiene los archivos generados y encontrados, y los gráficos que se realizo mediante la información encontrada.
 
-### videos de Youtube
+### Videos de Youtube
 -
 - Enfrentamientos Policiales y Juegos en linea: 
 - Noticias y Eventos Mundiales: https://youtu.be/bLGqD7c-uIU
