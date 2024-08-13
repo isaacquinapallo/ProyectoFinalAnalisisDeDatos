@@ -8,6 +8,10 @@ En particular, Statista proporcionará los datos sobre: -PaisesPersonasMuertesEn
 
 Estos datos serán fundamentales para comprender la evolución de la pandemia y la eficacia de las medidas adoptadas.
 
+![image](https://github.com/user-attachments/assets/33659c8e-8ec5-4949-9898-2bffad76e6e9)
+
+![image](https://github.com/user-attachments/assets/0870edcc-bbc3-49dc-86e0-c6a88e53cb16)
+
 ### 2.- Scripts
 
 Para manejar adecuadamente los datos extraídos, se desarrollarán scripts que permitan su correcta transformación y formateo. Estos scripts cumplirán con las siguientes tareas:
