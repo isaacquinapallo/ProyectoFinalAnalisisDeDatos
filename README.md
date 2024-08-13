@@ -12,7 +12,8 @@ El proyecto no solo se centrará en la recopilación de datos, sino también en 
 
 A lo largo del proyecto, se desarrollarán dashboards explicativos que servirán para la toma de decisiones en relación a las problemáticas planteadas por el equipo, abordando al menos quince casos de estudio. Se espera que las conclusiones obtenidas a partir de estas visualizaciones proporcionen una base sólida para la toma de decisiones informadas.
 ## Contenido
-
+### [Pulso Político en 20 ciudades del Ecuador](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/karla%20Rodriguez/1.Pulso%20pol%C3%ADtico%20de%2020%20ciudades%20del%20Ecuador)
+Este enlace contiene los datos e información sobre cual es el pulso político en 20 ciudades del Ecuador
 ### [Juegos en línea por países](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/4.%20Actividades%20y%20Hobbies/Juegos%20en%20Linea%20por%20Paises%20y%20Warzone)
 Este enlace contiene los datos y gráficos relacionados en base a los juegos en linea por paises y el juego Warzone.
 Video: https://youtu.be/cAY835OKNp0
