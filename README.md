@@ -4,8 +4,6 @@
 
 ![image](https://github.com/user-attachments/assets/ba782748-a3da-4a31-9018-61400189813c)
 
-### [Pulso politico por provincias](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/karla%20Rodriguez/Pulso%20Pol%C3%ADtico%20por%20Provincias%20en%20Ecuador)
-
 ## Introducción
 En el presente proyecto, titulado "Análisis de Datos", los integrantes Karla Rodríguez, Isaac Quinapallo y Angel Villamil aplicarán los conocimientos adquiridos sobre análisis de datos, extracción, limpieza, transformación y visualización utilizando la herramienta Power BI. El objetivo principal es diseñar una arquitectura compleja que integre al menos diez fuentes de datos de temáticas diversas, abarcando eventos deportivos, pulso político, actividades y hobbies, eventos o noticias mundiales, entre otros.
 
@@ -15,6 +13,10 @@ A lo largo del proyecto, se desarrollarán dashboards explicativos que servirán
 ## Contenido
 ### [Pulso Político en 20 ciudades del Ecuador](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/karla%20Rodriguez/1.Pulso%20pol%C3%ADtico%20de%2020%20ciudades%20del%20Ecuador)
 Este enlace contiene los datos e información sobre cual es el pulso político en 20 ciudades del Ecuador
+
+### [Pulso politico por provincias](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/karla%20Rodriguez/Pulso%20Pol%C3%ADtico%20por%20Provincias%20en%20Ecuador)
+
+
 ### [Juegos en línea por países](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/4.%20Actividades%20y%20Hobbies/Juegos%20en%20Linea%20por%20Paises%20y%20Warzone)
 Este enlace contiene los datos y gráficos relacionados en base a los juegos en linea por paises y el juego Warzone.
 Video: https://youtu.be/cAY835OKNp0
