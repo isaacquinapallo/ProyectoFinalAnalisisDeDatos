@@ -32,6 +32,5 @@ Contiene los archivos generados y encontrados, y los gráficos que se realizo me
 ## [Repositorio SQL Server](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/SQL%20Server)
 Link del repositorio del SQL Server donde se almacenaron todas las tablas consultadas.
 ### Videos de Youtube
--
 - Enfrentamientos Policiales y Juegos en linea: https://youtu.be/cAY835OKNp0
 - Noticias y Eventos Mundiales: https://youtu.be/bLGqD7c-uIU
