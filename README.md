@@ -23,6 +23,8 @@ Contiene los datos recolectados, los scripts y las visualizaciones de los datos.
 ### [Enfrentamientos policiales en Estados Unidos](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/Enfrentamientos%20Policiales%20y%20Abuso)
 Contiene los archivos generados y encontrados, y los gráficos que se realizo mediante la información encontrada.
 
+## [Repositorio SQL Server](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/SQL%20Server)
+Link del repositorio del SQL Server donde se almacenaron todas las tablas consultadas.
 ### Videos de Youtube
 -
 - Enfrentamientos Policiales y Juegos en linea: https://youtu.be/cAY835OKNp0
