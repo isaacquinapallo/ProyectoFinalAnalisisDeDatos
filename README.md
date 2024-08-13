@@ -2,7 +2,8 @@
 ### Arquitectura
 - La arquitectura general del proyecto se muestra en la siguiente imagen:
 
-![image](https://github.com/user-attachments/assets/beac6b47-f1cd-46c0-af03-5eb2e24f1b76)
+![image](https://github.com/user-attachments/assets/ba782748-a3da-4a31-9018-61400189813c)
+
 
 ## Introducción
 En el presente proyecto, titulado "Análisis de Datos", los integrantes Karla Rodríguez, Isaac Quinapallo y Angel Villamil aplicarán los conocimientos adquiridos sobre análisis de datos, extracción, limpieza, transformación y visualización utilizando la herramienta Power BI. El objetivo principal es diseñar una arquitectura compleja que integre al menos diez fuentes de datos de temáticas diversas, abarcando eventos deportivos, pulso político, actividades y hobbies, eventos o noticias mundiales, entre otros.
