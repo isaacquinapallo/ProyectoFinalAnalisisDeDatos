@@ -16,6 +16,7 @@ A lo largo del proyecto, se desarrollarán dashboards explicativos que servirán
 Este enlace contiene los datos e información sobre cual es el pulso político en 20 ciudades del Ecuador
 
 ### [Pulso politico por provincias](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/karla%20Rodriguez/Pulso%20Pol%C3%ADtico%20por%20Provincias%20en%20Ecuador)
+Este proceso implica diversas técnicas y herramientas que permiten transformar datos.
 
 ### [Eventos deportivos a nivel mundial](https://github.com/isaacquinapallo/ProyectoFinalAnalisisDeDatos/tree/main/karla%20Rodriguez/Eventos%20deportivos%20a%20nivel%20mundial.%20(Juegos%20Ol%C3%ADmpicos%20y%20Poblaci%C3%B3n))
 Este enlace contiene los datos y gráficos relacionados en base a los Eventos deportivos a nivel mundial en esta ocasión los Juegos Olímpicos.
